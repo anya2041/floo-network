@@ -1,8 +1,8 @@
 <h1 align="center">Full-Stack Chat App</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anya2041/floo-network/main/frontend/public/screenshot-for-readme.png" width="45%" alt="Chat App Screenshot 1">
-  <img src="https://raw.githubusercontent.com/anya2041/floo-network/main/frontend/public/screenshot-for-readme-1.png" width="45%" alt="Chat App Screenshot 2">
+  <img src="https://github.com/anya2041/floo-network/main/frontend/public/screenshot-for-readme.png" width="45%" alt="Chat App Screenshot 1">
+  <img src="https://github.com/anya2041/floo-network/main/frontend/public/screenshot-for-readme-1.png" width="45%" alt="Chat App Screenshot 2">
 </p>
 
 ##  **Key Features**
