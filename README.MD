@@ -1,7 +1,9 @@
 # Full-Stack Chat App
 
-![Chat App Screenshot 1](/floo-network/main/frontend/public/screenshot-for-readme.png)
-![Chat App Screenshot 2](/floo-network/main/frontend/public/screenshot-for-readme-1.png)
+![Chat App Screenshot 1](floo-network-master/frontend/publicscreenshot-for-readme.png)
+![Chat App Screenshot 2](floo-network-master/frontend/publicscreenshot-for-readme-1.png)
+
+
 ## Key Features
 ...
 
