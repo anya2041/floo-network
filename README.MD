@@ -1,9 +1,7 @@
 # Full-Stack Chat App
 
-**Demo Screenshots:**
-- ![Login Screen](https://github.com/anya2041/floo-network-master/floo-network/main/frontend/public/screenshot-for-readme.png)
-- ![Chat Interface](https://github.com/anya2041/floo-network-master/frontend/public/screenshot-for-readme-1.png)
-
+![Chat App Screenshot 1](/floo-network/main/frontend/public/screenshot-for-readme.png)
+![Chat App Screenshot 2](/floo-network/main/frontend/public/screenshot-for-readme-1.png)
 ## Key Features
 ...
 
