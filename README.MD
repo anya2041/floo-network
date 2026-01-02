@@ -3,8 +3,6 @@
 ![Chat App Screenshot 1](./floo-network-master/frontend/public/screenshot-for-readme.png)
 ![Chat App Screenshot 2](./floo-network-master/frontend/public/screenshot-for-readme-1.png)
 
-## Key Features
-...
 
 ##  **Key Features**
 
