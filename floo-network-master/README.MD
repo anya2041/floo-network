@@ -1,7 +1,7 @@
 <h1 align="center">Full-Stack Chat App</h1>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
-(/frontend/public/screenshot-for-readme-1.png)
+![Demo App](/frontend/public/screenshot-for-readme-1.png)
 
 ##  **Key Features**
 
